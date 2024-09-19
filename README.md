@@ -66,7 +66,7 @@ foo@bar:~$ git push origin my-feature
 Please read the CONTRIBUTING.md file for more details on our contribution process.
 
 ## License
-Specify the license under which your project is distributed.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
 Provide relevant contact details for customer support, business inquiries, or further information.
