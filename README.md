@@ -7,8 +7,13 @@ Welcome to the Greenest Algeria project! This initiative aims to develop a mobil
 ## Table of Contents
 
 - [Overview](#overview)
+- [Features](#features)
 - [Project Structure](#project-structure)
+- [Technologies Used](#technologies-used)
+- [API Documentation](#api-documentation)
 - [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
 
 
 ## Overview
@@ -20,6 +25,9 @@ Greenest Algeria is an initiative dedicated to promoting tree planting and maint
  - Building an open-source community for ongoing tool development.
  - Providing data for scientific research.
 
+## Features
+List the key features of your product or service.
+
 ## Project Structure
 
 ```
@@ -28,6 +36,12 @@ Greenest Algeria is an initiative dedicated to promoting tree planting and maint
 │   └── file              # TODO
 └── file
 ```
+
+## Technologies Used
+List the key technologies, frameworks, or tools that your business or product relies on.
+
+## API Documentation
+(Optional) Include details about your API endpoints, authentication, and usage examples if you have an API.
 
 ## Contributing
 
@@ -51,5 +65,11 @@ foo@bar:~$ git push origin my-feature
 
 Please read the CONTRIBUTING.md file for more details on our contribution process.
 
+## License
+Specify the license under which your project is distributed.
 
+## Contact Information
+Provide relevant contact details for customer support, business inquiries, or further information.
+- Email: hariri.ali.official@gmail.com
+- Website: [Greenest.Algeria](https://www.instagram.com/eljazayer_elkhadhra)
 
